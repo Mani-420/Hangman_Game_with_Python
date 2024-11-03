@@ -1,0 +1,1 @@
+words_list = ["apple", "orange", "banana", "grapes", "peach", "carrot", "bringle", "raddish", "tomato", "cucumber", "pakistan", "nepal", "china", "america", "russia"]
